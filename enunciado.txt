@@ -1,0 +1,21 @@
+1: Asignar sueldos de manera aleatoria (función para generar 10 sueldos aleatorios)
+
+2: Clasificar sueldos de acuerdo al monto
+    1 funcion que permita mostrar la lista de empleados con su sueldo y su 
+    respectica clasificacion ej:
+        -Sueldo menor a 800.000
+        -Sueldo entre 800.000 y 2.000.000
+        -Sueldo mayor a 2.000.000
+
+3: ver estadisiticas:
+    función que muestre el sueldo más bajo. el mas alto y el promedio
+
+4: reporte de sueldo:
+    funciones que muestre el detalle de los sueldos de los trabajadores
+    descuento de salud (7%), AFP (12%) y sueldo liquido
+    Esta información se exportara en un archivo csv
+
+5: Salir
+    Al salir de la app debe mostrar el siguiente mensaje:
+    "Finalizando programa
+    Desarrollado por David Zúñiga, rut 20.099.797-2"
